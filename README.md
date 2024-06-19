@@ -17,7 +17,7 @@ JavaScript for game logic and interactivity
 # How to Play
 Open the index.html file in a web browser.
 The game board will be displayed with a 3x3 grid.
-Players take turns to click on an empty cell to place their mark (Player 1 is 'X' and Player 2 is 'O').
+Players take turns to click on an empty cell to place their mark (Player 1 is 'O' and Player 2 is 'X').
 The game will automatically check for a winner or a draw after each move.
 If a player wins, the winning line will be highlighted, and a message will be displayed.
 Click the "Reset" button to start a new game.
